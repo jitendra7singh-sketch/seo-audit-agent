@@ -1,0 +1,46 @@
+{
+  "website_url": "https://yoursite.com",
+  "business_name": "Your Business",
+  "category": "Travel Ticket Booking",
+  "target_market": "India",
+  "keyword_count": 5000,
+  "competitor_page_count": 2000,
+  "min_referring_da": 30,
+  "max_competitors": 10,
+  "keyword_groups": [
+    "Transactional",
+    "Informational",
+    "Navigational",
+    "Commercial Investigation",
+    "Brand",
+    "Non-Brand",
+    "Long-tail",
+    "Short-tail"
+  ],
+  "page_types": [
+    "Homepage",
+    "Category/Hub",
+    "Product/Service",
+    "Blog/Article",
+    "Landing Page",
+    "Comparison",
+    "How-to/Guide",
+    "FAQ",
+    "Tool/Calculator",
+    "Location",
+    "Review",
+    "Glossary"
+  ],
+  "seed_keywords": [
+    "flight booking",
+    "bus ticket",
+    "train ticket",
+    "travel deals",
+    "cheap flights"
+  ],
+  "known_competitors": [
+    "makemytrip.com",
+    "goibibo.com",
+    "cleartrip.com"
+  ]
+}
